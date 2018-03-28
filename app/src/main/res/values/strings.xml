@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Grupitoo Andmebaas</string>
+    <string name="email">email</string>
+    <string name="password">salasõna</string>
+    <string name="login">Logi sisse</string>
+    <string name="unustatud">Unustasid salasõna?</string>
+    <string name="registreeri">Registreeri kasutajaks</string>
+    <string name="katsed">Katseid on jäänud veel</string>
+    <string name="lähtesta">Lähtesta parool</string>
+    <string name="eesnimi">Eesnimi</string>
+    <string name="perenimi">Perekonnanimi</string>
+    <string name="register">Registreeri</string>
+    <string name="pilt">Lisa pilt</string>
+</resources>
