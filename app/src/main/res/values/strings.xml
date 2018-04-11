@@ -11,4 +11,7 @@
     <string name="perenimi">Perekonnanimi</string>
     <string name="register">Registreeri</string>
     <string name="pilt">Lisa pilt</string>
+    <string name="logiv">välja</string>
+    <string name="kasutaja">profiil</string>
+    <string name="Andmebaas">andmebaas</string>
 </resources>

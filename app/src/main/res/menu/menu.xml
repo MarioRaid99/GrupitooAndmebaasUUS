@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/välja"
+            android:title="@string/logiv">
+
+        </item>
+
+        <item
+            android:id="@+id/kasutaja"
+            android:title="@string/kasutaja">
+
+        </item>
+
+        <item
+            android:id="@+id/andmebaas"
+            android:title="@string/Andmebaas">
+
+        </item>
+
+
+    </menu>
